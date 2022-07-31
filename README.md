@@ -1,9 +1,3 @@
-1. [ Description. ](#desc)
-2. [ Web Address. ](#web-address)
-3. [ Usage tips. ](#usage)
-4. [ Contributing. ](#contributing)
-5. [ License. ](#license)
-
 
 <a name="desc"></a>
 ## 1. Description
