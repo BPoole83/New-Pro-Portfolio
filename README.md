@@ -2,6 +2,8 @@
 <a name="desc"></a>
 ## 1. Description
 
+![Screenshot (16)](https://user-images.githubusercontent.com/102924794/182046808-3c56383d-1e40-4b83-afa1-e83d0d0f4219.png)
+
 
 ### This is the landing page for Bryce Poole web portfolio.
 
